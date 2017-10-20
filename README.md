@@ -1,24 +1,8 @@
-# README
+# LANGUAGE APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## INTRODUCTION
 
-Things you may want to cover:
+* This app is still in development.
 
-* Ruby version
+* Its purpose is to provide editable decks of flash cards for studying languages (initially German, more language support in future versions).
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
